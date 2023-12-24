@@ -1,0 +1,15 @@
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\bin\Debug\net6.0\kt_eventSystems_Filchagin.exe
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\bin\Debug\net6.0\kt_eventSystems_Filchagin.deps.json
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\bin\Debug\net6.0\kt_eventSystems_Filchagin.runtimeconfig.json
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\bin\Debug\net6.0\kt_eventSystems_Filchagin.dll
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\bin\Debug\net6.0\kt_eventSystems_Filchagin.pdb
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.csproj.AssemblyReference.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.AssemblyInfoInputs.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.AssemblyInfo.cs
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.csproj.CoreCompileInputs.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.dll
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\refint\kt_eventSystems_Filchagin.dll
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.pdb
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\kt_eventSystems_Filchagin.genruntimeconfig.cache
+C:\Users\sdk54\OneDrive\Документы\GitHub\ProdProg\kt_eventSystems_Filchagin\kt_eventSystems_Filchagin\obj\Debug\net6.0\ref\kt_eventSystems_Filchagin.dll
